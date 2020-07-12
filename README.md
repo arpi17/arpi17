@@ -1,6 +1,6 @@
 ### Hi there, it's Árpi
 
-I'm currently working as a full-stack web developer at Bloqhouse Technologies using
+I'm currently working as a full-stack web developer at [Bloqhouse](https://bloqhouse.com/en/index.html) using
 - Vue
 - Typescript
 - Firebase
