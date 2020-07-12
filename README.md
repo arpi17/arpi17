@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, it's Árpi
+
+I'm currently working as a full-stack web developer at Bloqhouse Technologies using
+- Vue
+- Typescript
+- Firebase
 
 <!--
 **arpi17/arpi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
